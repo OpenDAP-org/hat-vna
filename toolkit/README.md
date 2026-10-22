@@ -1,6 +1,6 @@
 # Toolkit
 
-Developer host tools for this HAT, written in Rust. They run on the developer's machine and are not shipped in DAP OS.
+Developer host tools for this HAT, written in Rust. They run on the developer's machine and are not shipped in OpenDAP OS.
 
 ## Layout
 
