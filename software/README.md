@@ -1,6 +1,6 @@
 # Software
 
-OpenDAP OS software for this HAT, written in Rust. It builds on popular open-source software for its domain, optimized for this HAT and the board.
+Blackbird OS software for this HAT, written in Rust. It builds on popular open-source software for its domain, optimized for this HAT and the board.
 
 ## Layout
 
